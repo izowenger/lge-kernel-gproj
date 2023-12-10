@@ -1,9 +1,9 @@
 #!/bin/bash
-
+cava ma bele 
 # ================= NO CHANGE NEEDED BELOW! =====================
 
 usage() {
-    usagestr=$(cat <<EOF
+    usagestr=$( <<EOF
 Usage: tuxera_update.sh [OPTION...]
 
   This script only assembles the kernel headers package
